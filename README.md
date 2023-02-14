@@ -29,7 +29,7 @@ As evidence of this, the information provided was the following information: For
 
 **Plotting with color!**
 
-What next?
+**What next?**
 
 
 References:
