@@ -9,7 +9,7 @@ Given the large number of movies and series available on the platform, it is a p
 It has been a previous analyze, so in this dataset there is the information of the average duration of movies throughout the years.
 As evidence of this, the information provided was the following information: For the years from 2011 to 2020, the average movie durations are 103, 101, 99, 100, 100, 95, 95, 96, 93, and 90, respectively.
 
-**This project was sectioned in 10 steps, they were: 
+This project was sectioned in 10 steps, they were: 
 
 **Loading data into a dictionary**
 
